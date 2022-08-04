@@ -1,0 +1,39 @@
+.Titre {
+    color: lightcoral;
+    background-color: white;
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+  }
+  
+  h1 {
+    color: red;
+    font-size: 52px;
+    font-weight: 800;
+    text-align: center;
+  }
+
+  button {
+    color: white;
+    background-color: lightblue;
+    font-size: 36px;
+    font-weight: 800;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  button a:hover{
+      background-color: lightseagreen;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+  }
+
